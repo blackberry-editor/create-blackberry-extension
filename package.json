@@ -1,5 +1,5 @@
 {
-  "name": "create-blackberry-extension",
+  "name": "@blackberryeditor/create-blackberry-extension",
   "version": "0.0.1",
   "description": "Generator tool for creating extensions for Blackberry.",
   "main": "index.js",
